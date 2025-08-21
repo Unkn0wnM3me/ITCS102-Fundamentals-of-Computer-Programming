@@ -1,1 +1,2 @@
-# ITCS102-Fundamentals-of-Computer-Programming
+Ken Gimelson Bernal Solo
+025A-13924
